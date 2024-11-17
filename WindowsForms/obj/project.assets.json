@@ -2206,11 +2206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Escritorio\\TOO\\TSETH\\TuSaludEnTusHuesos.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Escritorio\\TOO\\TSETH\\WindowsForms\\TuSaludEnTusHuesos.csproj",
       "projectName": "TuSaludEnTusHuesos",
-      "projectPath": "C:\\Users\\diego\\OneDrive\\Escritorio\\TOO\\TSETH\\TuSaludEnTusHuesos.csproj",
+      "projectPath": "C:\\Users\\diego\\OneDrive\\Escritorio\\TOO\\TSETH\\WindowsForms\\TuSaludEnTusHuesos.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\OneDrive\\Escritorio\\TOO\\TSETH\\obj\\",
+      "outputPath": "C:\\Users\\diego\\OneDrive\\Escritorio\\TOO\\TSETH\\WindowsForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",

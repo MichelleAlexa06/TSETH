@@ -1,0 +1,9 @@
+{
+    "name": "michelle/tu-salud-tus-huesos",
+    "description": "Implementacion de correo Electronico",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "minimum-stability": "stable"
+}

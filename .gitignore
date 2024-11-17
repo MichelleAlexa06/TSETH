@@ -54,3 +54,52 @@ appsettings.Development.json
 
 # Ignore packages
 *.nupkg
+
+
+# PHP Project
+
+# Composer dependencies
+/vendor/
+
+# PHPUnit files
+.phpunit.result.cache
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# PHPStorm specific files
+*.phpstorm.meta.php
+
+# Laravel specific files
+/storage/*
+/node_modules/
+.env
+.env.*.local
+
+# Laravel config files
+config/database.php
+config/*.json
+
+# Laravel public paths
+/public/storage
+/public/*.log
+
+# Cache, logs, and session files
+/storage/*.key
+/storage/framework/*
+/storage/logs/*
+/storage/sessions/*
+
+# Ignore .env files
+.env
+.env.local
+.env.*.local
+
+# Composer vendor directory
+/vendor/
+
+# Ignoring build tools
+composer.lock
+composer.phar
