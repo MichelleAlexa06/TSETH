@@ -140,12 +140,16 @@ INSERT INTO Persona (nombre, apellido, direccion, telefono, email)
 VALUES 
 ('Carlos', 'Gómez', 'Calle 123', '555123456', 'carlos.gomez@hospital.com'),
 ('Ana', 'López', 'Avenida 456', '555654321', 'ana.lopez@hospital.com'),
-('Luis', 'Martínez', 'Plaza 789', '555987654', 'luis.martinez@hospital.com');
+('Michelle', 'Zelada', 'Plaza 789', '555987654', 'michelle.zelada@hospital.com');
 
 -- Insertar datos en la tabla Doctor
 INSERT INTO Doctor (idPersona, idRol, usuario, contrasena, especialidad)
 VALUES 
-(1, 2, 'carlosg', 'password123', 'Medicina General'), -- idRol 2 corresponde al 'Doctor'
-(2, 2, 'ana', 'password456', 'Fisioterapia'),
+(1, 2, 'carlosg', '1234', 'Medicina General'), -- idRol 2 corresponde al 'Doctor'
+(2, 2, 'ana', '1234', 'Fisioterapia');
+
+INSERT INTO Administrador (idPersona, idRol, usuario, contrasena)
+VALUES
+(3,1,'admin','admin')
 
 
