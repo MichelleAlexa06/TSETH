@@ -1,0 +1,56 @@
+# Windows Forms Project
+
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istpublic/
+[Dd]ebugging/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+.vscode/
+
+# User-specific files
+.vs2019/
+.vs2017/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+
+# Windows Installer merge module
+*.msp
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Windows Installer package
+*.wixproj.user
+
+# Ignore dependency directories
+node_modules/
+
+# Ignore ASP.NET Core local settings files
+appsettings.Development.json
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore packages
+*.nupkg
